@@ -1,0 +1,10 @@
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\bin\Debug\Desktop Operations.exe.config
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\bin\Debug\Desktop Operations.exe
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\bin\Debug\Desktop Operations.pdb
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop_Operations.Form1.resources
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop_Operations.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop Operations.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop Operations.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop Operations.exe
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop Operations.pdb
+C:\Users\MuradPc\source\repos\Desktop Operations\Desktop Operations\obj\Debug\Desktop Operations.csprojAssemblyReference.cache
